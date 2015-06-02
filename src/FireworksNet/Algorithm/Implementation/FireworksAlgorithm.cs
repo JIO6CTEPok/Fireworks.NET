@@ -9,7 +9,7 @@ using FireworksNet.Extensions;
 using FireworksNet.Generation;
 using FireworksNet.Model;
 using FireworksNet.Problems;
-using FireworksNet.Random;
+using FireworksNet.Random;  
 using FireworksNet.Selection;
 using FireworksNet.StopConditions;
 

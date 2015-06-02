@@ -1,13 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
-MinimumVisualStudioVersion = 10.0.40219.1
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireworksNet", "FireworksNet\FireworksNet.csproj", "{030C2E45-DCEA-44DE-A90A-61C4092D3406}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireworksNet.Examples", "FireworksNet.Examples\FireworksNet.Examples.csproj", "{3E5D80A2-E5FD-43C5-A55E-2D107F38AA8C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireworksNet.Tests", "FireworksNet.Tests\FireworksNet.Tests.csproj", "{1062194B-270F-4EF1-8264-2BE98FEC3EA9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{61542D3D-FF48-4AA4-9799-982681EE23D4}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
